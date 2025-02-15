@@ -37,14 +37,4 @@ This project is a **Sales Analysis Dashboard** built using **Microsoft Excel and
 ## 👤 Author  
 Developed by **Surya Teja** 🚀  
 
----
-
-### **3️⃣ Commit & Push to GitHub**  
-
-Run the following Git commands to add the README to your GitHub repository:  
-
-```bash
-git add README.md
-git commit -m "Added README documentation"
-git push origin main
 
